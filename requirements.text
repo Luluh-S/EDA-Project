@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy>=2.0
+lightgbm
+plotly
+requests
+qrcode[pil]
+scikit-learn
+joblib
+numpy
+matplotlib
+seaborn
